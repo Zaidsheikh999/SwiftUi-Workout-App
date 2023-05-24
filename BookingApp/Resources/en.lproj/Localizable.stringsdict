@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hello</key>
+	<string>Hello</string>
+	<key>login</key>
+	<string>Login</string>
+	<key>show</key>
+	<string>Show</string>
+	<key>payment</key>
+	<string>Payment</string>
+	<key>progress</key>
+	<string>Progress</string>
+	<key>currentMillestone</key>
+	<string>Current Milestone</string>
+	<key>board</key>
+	<string>Board</string>
+	<key>searchProjects</key>
+	<string>Search Projects</string>
+	<key>incomplete</key>
+	<string>Incomplete</string>
+	<key>toDo</key>
+	<string>To Do</string>
+	<key>doing</key>
+	<string>Doing</string>
+	<key>complete</key>
+	<string>Complete</string>
+	<key>payViaSquare</key>
+	<string>Pay via SQUARE</string>
+	<key>activeTasks</key>
+	<string>Active Tasks</string>
+	<key>seeAll</key>
+	<string>See All</string>
+	<key>aboutUs</key>
+	<string>About us</string>
+	<key>terms&amp;Condition</key>
+	<string>Terms &amp; Condition</string>
+	<key>settings</key>
+	<string>Settings</string>
+	<key>logout</key>
+	<string>Logout</string>
+	<key>high</key>
+	<string>High</string>
+	<key>low</key>
+	<string>Low</string>
+	<key>viewMore</key>
+	<string>View More</string>
+	<key>password</key>
+	<string>Password</string>
+	<key>userName</key>
+	<string>User Name</string>
+	<key>hide</key>
+	<string>Hide</string>
+	<key>resources</key>
+	<string>Resources</string>
+	<key>yourProjects</key>
+	<string>Your Projects</string>
+	<key>total</key>
+	<string>Total</string>
+	<key>payWith</key>
+	<string>Pay with</string>
+	<key>pay</key>
+	<string>Pay</string>
+	<key>addNewCard</key>
+	<string>Add a new Debit/Credit Card</string>
+	<key>emptyStateProjectTitle</key>
+	<string>No Projects Found</string>
+	<key>emptyStateProjectDesc</key>
+	<string>Seems like no projects exists.</string>
+	<key>projectTeam</key>
+	<string>Project Team</string>
+	<key>invoices</key>
+	<string>Invoices</string>
+	<key>invoice</key>
+	<string>Invoice</string>
+	<key>passwordChanged</key>
+	<string>Password has been changed</string>
+	<key>emptyStateTaskTitle</key>
+	<string>No Active Task </string>
+	<key>emptyStateTaskDesc</key>
+	<string>Seems like no task exists.</string>
+	<key>emptyStateInvoiceTitle</key>
+	<string>No Invoice</string>
+	<key>emptyStateInvoiceDesc</key>
+	<string>Seems like no invoice exists.</string>
+	<key>emptyStateUserTitle</key>
+	<string>No Users found</string>
+	<key>emptyStateUserDesc</key>
+	<string>Seems like no user exists.</string>
+	<key>privacyPolicy</key>
+	<string>Privacy Policy</string>
+</dict>
+</plist>
